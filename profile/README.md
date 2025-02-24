@@ -1,8 +1,8 @@
 # JavaGuide
 
 <a herf='https://javaGuide.net'>
-  
-<img width="1448" alt="截屏2025-01-17 13 15 38" src="https://github.com/user-attachments/assets/63a9f104-b64b-4f26-bf7d-0acfe5e40a14" />
+
+<img width="1448" alt="JavaGuide | JavaGuide面试指南 ｜ JavaGuide.net 预览" src="https://github.com/user-attachments/assets/63a9f104-b64b-4f26-bf7d-0acfe5e40a14" />
 
 </a>
 
@@ -35,6 +35,6 @@ post for JavaGuide | JavaGuide.net | Java 面试指南
 
 ## 网站链接：https://JavaGuide.net
 
-<img width="1448" alt="截屏2025-01-17 13 15 38" src="https://github.com/user-attachments/assets/63a9f104-b64b-4f26-bf7d-0acfe5e40a14" />
+<img width="1448" alt="JavaGuide | JavaGuide面试指南 ｜ JavaGuide.net 预览" src="https://github.com/user-attachments/assets/63a9f104-b64b-4f26-bf7d-0acfe5e40a14" />
 
 
